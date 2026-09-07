@@ -1,0 +1,5 @@
+{
+    "name": "NamnyeoChilse.Runtime",
+    "rootNamespace": "NamnyeoChilse",
+    "references": ["Unity.ugui", "Unity.InputSystem", "Unity.Services.Core", "Unity.Services.Core.Internal", "Unity.Services.Core.Environments", "Unity.Services.Authentication", "Unity.Services.Leaderboards"]
+}

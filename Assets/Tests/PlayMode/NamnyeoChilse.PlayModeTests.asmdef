@@ -1,0 +1,6 @@
+{
+    "name": "NamnyeoChilse.PlayModeTests",
+    "references": ["NamnyeoChilse.Runtime", "Unity.ugui", "Unity.InputSystem", "Unity.Services.Core"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}
+
